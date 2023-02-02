@@ -10,7 +10,8 @@ public class OddEven {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(isEven(23));
+		System.out.println(isEven(100));
+		System.out.println("Changes Made ...");
 
 	}
 
